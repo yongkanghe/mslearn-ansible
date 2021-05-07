@@ -1,4 +1,4 @@
-plugin: auto #azure_rm
+plugin: azure_rm
 include_vm_resource_groups:
 - learn-ansible-rg
 auth_source: auto
